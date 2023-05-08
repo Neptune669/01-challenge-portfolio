@@ -119,5 +119,40 @@ section.about {
   color: var(--p);
   font-size: 1rem;
   max-width: 500px;
-  margin-bottom: 0;
+  margin: 0;
+}
+
+.contact h2 {
+  font-size: 2rem;
+  font-weight: normal;
+  margin: 0;
+}
+.contact p {
+  color: var(--p);
+  max-width: 400px;
+}
+.contact a {
+  text-decoration: none;
+}
+.contact .contact-btn {
+  margin-top: 30px;
+}
+footer {
+  background-color: #2e3038;
+  margin: 0 auto;
+}
+footer .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+footer .container .logo h3 {
+  font-family: var(--head);
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+footer .container .social-link {
+  margin-left: 15px;
 }
