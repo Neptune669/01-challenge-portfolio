@@ -131,7 +131,7 @@ section.about {
   color: var(--p);
   max-width: 400px;
 }
-.contact a {
+.contact .contact-btn a {
   text-decoration: none;
 }
 .contact .contact-btn {
