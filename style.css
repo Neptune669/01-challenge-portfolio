@@ -114,6 +114,7 @@ section.about {
   max-width: 400px;
   font-size: 1.8rem;
   font-weight: normal;
+  margin-top: 0;
 }
 .grid-container .grid-col p {
   color: var(--p);
